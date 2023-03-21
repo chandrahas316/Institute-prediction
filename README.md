@@ -22,6 +22,8 @@
 
 ## Code implementation 
 
+- Install required libraries before running the code.
+
 - Data Preprocessing - Removed all the ranks in which alphabet 'P' presents to increase efficiency in model.
 
 - Data Preparation - Encoded dataset into 0's and 1's which will be helpful in preparing decision tree.
